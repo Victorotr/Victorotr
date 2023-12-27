@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioR56&custom_title=Lenguajes%20más%20usados&layout=compact&bg_color=22272E&text_color=ffffff&hide_border=true&title_color=FDBCB4)](https://github.com/FlorPManzano/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victorotr&custom_title=Lenguajes%20más%20usados&layout=compact&bg_color=22272E&text_color=ffffff&hide_border=true&title_color=FDBCB4)](https://github.com/FlorPManzano/github-readme-stats)
 
 </div>
 
