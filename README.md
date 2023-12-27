@@ -13,7 +13,7 @@
 <br/>
 <a href="https://www.linkedin.com/in/victoroterovidal/">
   <img
-    src="https://img.shields.io/badge/-Víctor_Otero_Vidal-orange?style=-square&logo=Linkedin&logoColor=white&color=A0522D&link=https://www.linkedin.com/in/victor-otero-vidal/"/>
+    src="https://img.shields.io/badge/-Víctor_Otero_Vidal-orange?style=-square&logo=Linkedin&logoColor=white&color=A0522D&link=https://www.linkedin.com/victor-otero-vidal/"/>
 </a>
 
  
