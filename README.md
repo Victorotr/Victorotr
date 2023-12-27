@@ -1,4 +1,4 @@
-# ¡Hola Mundo! 👋
+# ¡Hola Mundo! 👋  Mi nombre es Víctor Otero Vidal
 
 <div align="right">
 
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  Mi nombre es <b>Víctor Otero Vidal</b> y soy Full-Stack Web Developer junior.
+ 
 
   Apasionado por construir experiencias web emocionantes. Plasmando ideas en proyectos web. 😄
 
