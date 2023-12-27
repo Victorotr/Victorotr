@@ -13,6 +13,7 @@
   <img
     src="https://img.shields.io/badge/-Víctor_Otero_Vidal-orange?style=-square&logo=Linkedin&logoColor=white&color=A0522D&link="https://www.linkedin.com/victor-otero-vidal//>
 </a>
+</div>
 
  <br/>
 
@@ -22,7 +23,6 @@
 * 👥 En busca de emocionantes colaboraciones y desafíos.
 
 <br />
-</div>
 
 <div align="center">
 
