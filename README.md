@@ -9,7 +9,7 @@
  Apasionado por construir experiencias web emocionantes. Plasmando ideas en proyectos web. 😄
 
 <br/>
-
+<br/>
 <a href="https://www.linkedin.com/in/victor-otero-vidal/">
   <img
     src="https://img.shields.io/badge/-Víctor_Otero_Vidal-orange?style=-square&logo=Linkedin&logoColor=white&color=A0522D&link="https://www.linkedin.com/victor-otero-vidal//>
