@@ -1,14 +1,14 @@
 # ¡Hola Mundo! 👋  Mi nombre es Víctor Otero Vidal
 
 <div align="right">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D68FF&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
- 
-
-  Apasionado por construir experiencias web emocionantes. Plasmando ideas en proyectos web. 😄
+ Apasionado por construir experiencias web emocionantes. Plasmando ideas en proyectos web. 😄
 
 <br/>
 <a href="https://www.linkedin.com/in/victor-otero-vidal/">
