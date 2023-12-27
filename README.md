@@ -18,9 +18,9 @@
 
  <br/>
 
-* 🎨 Amante del desarrollo web tanto back end como front end
-* 🖥️ Haciendo pequeños proyectos con JavaScript, React y Node.js
-* 📑 Metas: Convertirme es una maestro del desarrollo web 
+* 🎨 Amante del desarrollo web tanto back end como front end.
+* 🖥️ Haciendo pequeños proyectos con JavaScript, React y Node.js.
+* 📑 Metas: Convertirme es una maestro del desarrollo web.
 * 👥 En busca de emocionantes colaboraciones y desafíos.
 
 <br />
