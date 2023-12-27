@@ -11,9 +11,9 @@
   Apasionado por construir experiencias web emocionantes. Plasmando ideas en proyectos web. 😄
 
 <br/>
-<a href="https://www.linkedin.com/in/sergioramosc/">
+<a href="https://www.linkedin.com/in/victoroterovidal/">
   <img
-    src="https://img.shields.io/badge/-Sergio_Ramos_Colmenar-orange?style=-square&logo=Linkedin&logoColor=white&color=A0522D&link=https://www.linkedin.com/in/sergioramosc/"/>
+    src="https://img.shields.io/badge/-Víctor_Otero_Vidal-orange?style=-square&logo=Linkedin&logoColor=white&color=A0522D&link=https://www.linkedin.com/in/sergioramosc/"/>
 </a>
 
  
