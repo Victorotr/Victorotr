@@ -1,4 +1,4 @@
-# ¡Hola Mundo! Mi nombre es Víctor Otero Vidal  👋
+# ¡Hola Mundo! Mi nombre es Víctor Otero 👋
 
 <div align="center">
  
