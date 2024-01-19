@@ -18,10 +18,10 @@
 
  <br/>
 
-* 🎨 Amante del desarrollo web tanto back end como front end.
-* 🖥️ Haciendo pequeños proyectos con JavaScript, React y Node.js.
-* 📑 Metas: Convertirme es una maestro del desarrollo web.
-* 👥 En busca de emocionantes colaboraciones y desafíos.
+* 🎨 Apasionado del desarrollo web tanto frontend como backend.
+* 🖥️ Realizando proyectos para mejorar mi lógica de programación.
+* 📑 Metas: Aprender más cada día, afianzando mis conocimientos y aprendiendo nuevas tecnologías.
+* 👥 En busca de el empleo que me haga crecer como profesional.
 
 <br />
 
