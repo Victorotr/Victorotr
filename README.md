@@ -18,10 +18,9 @@
 
  <br/>
 
-* 🎨 Apasionado del desarrollo web tanto frontend como backend.
+* 🎨 Apasionado del desarrollo tanto frontend como backend.
 * 🖥️ Realizando proyectos para mejorar mi lógica de programación.
 * 📑 Metas: Aprender más cada día, afianzando mis conocimientos y aprendiendo nuevas tecnologías.
-* 👥 En busca de el empleo que me haga crecer como profesional.
 
 <br />
 
