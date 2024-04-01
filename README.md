@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
- Desarrollando experiencias web emocionantes. Plasmando ideas en proyectos web. 😄
+ Desarrollando experiencias emocionantes. Plasmando ideas en proyectos. 😄
 
 <br/>
 <br/>
